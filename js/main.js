@@ -235,7 +235,6 @@ let hero1Element = prompt(
 hero1.element = hero1Element;
 
 //* ЗДЕСЬ УЗНАЕМ СТИХИЮ И ДАЕМ БОНУС ОЧКИ
-
 switch (hero1Element) {
     case "fire":
         hero1.strength = hero1.strength + 20;
