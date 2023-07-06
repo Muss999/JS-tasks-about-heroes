@@ -203,6 +203,7 @@ let hero1 = {
     agility: null,
     element: null,
 };
+
 let hero2 = {
     name: null,
     strength: null,
